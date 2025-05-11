@@ -1,20 +1,20 @@
 [
   {
-    "name": "Quotynt",
+    "name": "Quotynt.eco",
     "url": "https://quotynt.eco",
     "icon": "https://icons.duckduckgo.com/ip3/quotynt.eco.ico",
-    "slug": "quotynt",
+    "slug": "quotynt-eco",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 355,
+    "timeDay": 355,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
