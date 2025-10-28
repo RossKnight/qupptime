@@ -4,17 +4,19 @@
     "url": "https://quotynt.eco",
     "icon": "https://icons.duckduckgo.com/ip3/quotynt.eco.ico",
     "slug": "quotynt-eco",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 104,
-    "timeWeek": 225,
-    "timeMonth": 214,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 243,
+    "timeDay": 238,
+    "timeWeek": 244,
+    "timeMonth": 219,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2025-10-28": 13
+    }
   }
 ]
